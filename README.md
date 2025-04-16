@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🚀 **Starting my journey as a dev** with the programming course on Oracle.
+- 🚀 **Starting my journey as a dev** with the programming course on ONE (Oracle Next Education)- Alura.
 - 💼 **Working as a System Operator** at Akkodis, applying my technical knowledge on digital mapping for Apple Maps.
 - 🌱 **Studying Environmental Management**, aiming to integrate technology and sustainability into innovative solutions.
 - 🌍 **I speak a few languages**: Portuguese, English, Spanish, German, and Brazilian Sign Language — a skill that allows me to connect with different cultures and communities.
@@ -10,6 +10,7 @@
 ## Technologies I'm learning and exploring
 
 - 💻 **Programming**: JavaScript, HTML, CSS, etc.
+- ☕ **Back-end**: Java...
 - 🌱 **Environmental Management**: Technological solutions for environmental care.
 - 🌍 **Multilingual**: I'm always looking to improve my communication skills in different languages, which allows me to collaborate on international and inclusive projects.
 
