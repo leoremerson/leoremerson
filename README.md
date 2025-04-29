@@ -9,8 +9,8 @@
 
 ## Technologies I'm learning and exploring
 
-- 💻 **Programming**: JavaScript, HTML, CSS, etc.
-- ☕ **Back-end**: Java...
+- 💻 **Front-end**: JavaScript, HTML, CSS, etc.
+- ☕ **Back-end**: Java, etc.
 - 🌱 **Environmental Management**: Technological solutions for environmental care.
 - 🌍 **Multilingual**: I'm always looking to improve my communication skills in different languages, which allows me to collaborate on international and inclusive projects.
 
